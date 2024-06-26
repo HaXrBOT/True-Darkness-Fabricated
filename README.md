@@ -1,7 +1,7 @@
 ![Moonphases](https://github.com/CrismPack/CDN/blob/main/desc/darkness/True%20Darkness%20Moonphases.png?raw=true)
 
 
-# **True Darkness Fabricated**
+# **True Darkness Refabricated**
 
 This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mod by [GrondagTheBarbarian](https://modrinth.com/user/grondag), maintaining it for Fabric 1.20.1 and beyond.
 
