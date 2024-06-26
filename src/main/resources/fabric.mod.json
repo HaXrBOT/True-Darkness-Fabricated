@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "true-darkness-fork",
+	"id": "true-darkness-refabricated",
 	"version": "${version}",
-	"name": "True Darkness Fork",
+	"name": "True Darkness Refabricated",
 	"description": "Nighttime darkness affected by moon phase and cloud cover",
 	"authors": [
 		"HaXr"
@@ -11,11 +11,11 @@
 		"Grondag - Original Author"
 	],
 	"contact": {
-		"issues": "https://github.com/HaXrBOT/True-Darkness-Fork/issues",
-		"sources": "https://github.com/HaXrBOT/True-Darkness-Fork"
+		"issues": "https://github.com/HaXrBOT/True-Darkness-Refabricated/issues",
+		"sources": "https://github.com/HaXrBOT/True-Darkness-Refabricated"
 	},
 	"license": "LGPL 3.0",
-	"icon": "assets/darkness/true-darkness-fork.png",
+	"icon": "assets/darkness/logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

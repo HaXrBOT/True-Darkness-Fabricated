@@ -5,8 +5,8 @@ on: [ workflow_dispatch ]
 env:
   MINECRAFT_VERSION: 1.21
   JAVA_VERSION: 21
-  VERSION: 1.0.4+1.21
-  RELEASE_NAME: TrueDarknessFork v1.0.4 for Minecraft 1.21
+  VERSION: 1.0.4+mc1.21
+  RELEASE_NAME: True Darkness Refabricated v1.0.4 for 1.21
   MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
   CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
   GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}

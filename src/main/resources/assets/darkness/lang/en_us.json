@@ -1,5 +1,5 @@
 {
-	"text.autoconfig.TrueDarknessFork.title" : "True Darkness Fork Config",
+	"text.autoconfig.TrueDarknessFork.title" : "True Darkness Refabricated Config",
 	
 	"text.autoconfig.TrueDarknessFork.option.blockLightOnly": "Affect Block Light Only",
 	"text.autoconfig.TrueDarknessFork.help.blockLightOnly": "Areas lit by sky will not be fully dark",
