@@ -42,8 +42,8 @@ import net.minecraft.world.level.dimension.DimensionType;
 
 public class Darkness {
 
-	public static final String MODID = "TrueDarknessFork";
-	public static Logger LOG = LogManager.getLogger("TrueDarknessFork");
+	public static final String MODID = "TrueDarknessRefabricated";
+	public static Logger LOG = LogManager.getLogger("TrueDarknessRefabricated");
 
 	static double darkNetherFogEffective;
 	static double darkEndFogEffective;
